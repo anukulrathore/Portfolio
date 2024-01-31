@@ -16,6 +16,15 @@ const projects = [
         projectLink:"https://chit-chatting-app.netlify.app/",
         githubLink:"https://github.com/anukulrathore/Chit-Chat-backend",
     },
+
+    {
+        id:3,
+        title:"Paytm Webapp",
+        description:"A clone of paytm which allows the registered users to transfer money to each other",
+        imgUrl:"/images/projects/paytm-pic.png",
+        projectLink:"https://paytm-frontend-nu.vercel.app/",
+        githubLink:"https://github.com/anukulrathore/Paytm-backend",
+    },
     
 ]
 
